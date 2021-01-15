@@ -1,5 +1,5 @@
-#define FIREBASE_HOST "ble-beacon-a5913.firebaseio.com"
-#define FIREBASE_AUTH "uOIi0l52NWuMmY0HFBhFbVXQvC9ONrPhIY5tJnfw"
+#define FIREBASE_HOST "calibrex-5b953-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "uTFvzDHJYSrO0f6FvTVOOdOadvpIwnxBap40ruWH"
 #define WIFI_SSID "M 57"
 #define WIFI_PASSWORD "8376918157"
 long UPDATE_CHECK_TIME = 5000;
